@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "projects_name": "Random Quote Generator",
+            "description": "Project-1",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live-link": "https://github.com/hmanning13/Project-1",
+            "github_link": "https://github.com/hmanning13/Project-1",
+            "image_urls": [
+                ""
+            ]
+        },
+        {}
+    ]
+}
