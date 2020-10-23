@@ -1,4 +1,5 @@
 const express = require("express");
 const app = express();
 
-app.use()
+app.use("/static", express.static("public"));
+app.set("view engine", "pug");
